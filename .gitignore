@@ -1,1 +1,3 @@
 *.pyc
+venv
+user_record.db
